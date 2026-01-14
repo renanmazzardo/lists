@@ -4,3 +4,4 @@ cloudflare-gateway.com
 api.cloudflareclient.com
 cloudflaredns.com
 cloudflareresolve.com
+one.one.one.one
