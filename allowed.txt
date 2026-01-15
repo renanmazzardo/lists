@@ -1,7 +1,1 @@
-dns.cloudflare.com
-cloudflare-dns.com
-cloudflare-gateway.com
-api.cloudflareclient.com
-cloudflaredns.com
-cloudflareresolve.com
-one.one.one.one
+
